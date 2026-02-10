@@ -6,6 +6,9 @@
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot" style="max-width: 100%">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="max-width: 100%">
 <img src="https://raw.githubusercontent.com/notmooncalf/notmooncalf/main/pico-8%20logo.png" alt="PICO-8" style="max-width: 100%">
+<img src="https://camo.githubusercontent.com/44a6409721bf6e96c7d6c357dd67e7298398bc7830572e50bebd0b227f51e976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532334533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html" style="max-width: 100%">
+<img src="https://camo.githubusercontent.com/25376fda6e6293b76e64c70f56f68847c93898dc1766f6ff073498baba954b41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d666666" alt="CSS" style="max-width: 100%">
+<img src="https://camo.githubusercontent.com/856f8d28867fecea55bd19198a98715bf4392a2df913c55ea7db1612917fb131/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d2532333030303030302e7376673f6c6f676f3d756e697479266c6f676f436f6c6f723d7768697465" alt="Unity" style="max-width: 100%">
 </p>
 
 ### things i have unwillingly been subjected to:
@@ -18,11 +21,22 @@
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" style="max-width: 100%">
 </p>
 
-### art programs:
-- **Blender,** 3D Animation, 2D Animation, Modeling, Texturing, Video Editing
-- **Painttool SAI (1.0),** Digital Art, Texturing, Asset Creation
-- **ShoeBox,** Texture Ripper
+### additional programs and experience:
+- **Blender,** 3D Animation, 2D Animation, Modeling, Texturing, Video Editing, Asset Creation (80%)
+- **Godot,** Solo / Duo Game Development (20%)
+- **Lua,** (Modified) ROBLOX Game Development (10%)
+- **Unity,** VRChat Avatar Creation, Retextures, and Animation Blend Trees (40%) 
+- **Painttool SAI (1.0),** Digital Art, Texturing, Asset Creation (100%)
+- **HTML / CSS,** Basic Website Design (25%)
+- **ShoeBox,** Texture Ripper (100%)
 
+### niche areas of experience:
+- **Firearms,** good knowledge of small-arms and their workings
+- **Ammo,** extensive knowledge about the working and reloading of ammunition
+- **Sub Rosa,** Modding Community, contributed and modded in several firearms
+- **ROBLOX GFX,** I used to make graphics for ROBLOX groups, creating scenes with avatars
+- **ROBLOX Animations,** 3D Blender animation using ROBLOX avatars, using a simple 6-bone character
+- **Worldbuilding / Character Design,** experience in discussing worldbuilding, designing and grounding characters into a world, and designing a surrounding space that fits them
 <!--
 **notmooncalf/notmooncalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
