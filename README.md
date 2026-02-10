@@ -27,10 +27,10 @@ including programs i have not touched in a long time, most recent are Blender, G
 ### additional programs and experience:
 - **Blender,** 3D Animation, 2D Animation, Modeling, Texturing, Video Editing, Asset Creation (80%)
 - **Godot,** Solo / Duo Game Development (20%)
+- **Painttool SAI (1.0),** Digital Art, Texturing, Asset Creation (100%)
 - **PICO-8,** as an entry to Game Development (20%)
 - **Lua,** (Modified) ROBLOX Game Development (10%)
 - **Unity,** VRChat Avatar Modification, Avatar Assets, Retextures, and Animation Blend Trees (40%) 
-- **Painttool SAI (1.0),** Digital Art, Texturing, Asset Creation (100%)
 - **HTML / CSS,** Basic Website Design (25%)
 - **ShoeBox,** Texture Ripper (100%)
 
