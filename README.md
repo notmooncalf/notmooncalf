@@ -26,7 +26,7 @@
 - **Godot,** Solo / Duo Game Development (20%)
 - **PICO-8,** as an entry to Game Development (20%)
 - **Lua,** (Modified) ROBLOX Game Development (10%)
-- **Unity,** VRChat Avatar Creation, Retextures, and Animation Blend Trees (40%) 
+- **Unity,** VRChat Avatar Modification, Avatar Assets, Retextures, and Animation Blend Trees (40%) 
 - **Painttool SAI (1.0),** Digital Art, Texturing, Asset Creation (100%)
 - **HTML / CSS,** Basic Website Design (25%)
 - **ShoeBox,** Texture Ripper (100%)
