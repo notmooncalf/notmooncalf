@@ -1,5 +1,6 @@
 ## hiya, i'm june ✨ i make stuff !!
 i'm a hobbyist, i figured i'd just write most of the creative things i do down here
+some of these programs i have not touched in a long time, most recent are Blender, Godot, and Painttool SAI
 
 ### things i have willingly subjected myself to:
 <p dir"auto">
