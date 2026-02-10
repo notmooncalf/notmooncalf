@@ -33,7 +33,7 @@ including programs i have not touched in a long time, most recent are Blender, G
 - **Unity,** VRChat Avatar Modification, Avatar Assets, Retextures, and Animation Blend Trees (40%) 
 - **HTML / CSS,** (very) Basic Website Design (25%)
 - **ShoeBox,** Texture Ripper (100%)
-
+<!--
 ### areas of experience:
 - **Firearms,** good knowledge of small-arms and their workings
 - **Ammo,** extensive knowledge about the working and reloading of ammunition
