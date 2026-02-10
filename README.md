@@ -1,4 +1,5 @@
 ## hiya, i'm june ✨ i make stuff !!
+i'm a hobbyist, i figured i'd just write most of the creative things i do down here
 
 ### things i have willingly subjected myself to:
 <p dir"auto">
