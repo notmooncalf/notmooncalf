@@ -34,7 +34,7 @@
 ### areas of experience:
 - **Firearms,** good knowledge of small-arms and their workings
 - **Ammo,** extensive knowledge about the working and reloading of ammunition
-- **Sub Rosa,** Modding Community, contributed and modded in several firearms
+- **Sub Rosa,** Modding Community, modeled and modded in several firearms
 - **ROBLOX GFX,** I used to make graphics for ROBLOX groups, creating Blender scenes with avatars
 - **3D Animation,** 3D Blender animations using (mostly) ROBLOX avatars, with a simple 6-bone character
 - **Worldbuilding / Character Design,** experience in discussing worldbuilding, designing and grounding characters into a world, and designing a surrounding space that fits them
