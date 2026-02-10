@@ -40,6 +40,7 @@
 - **3D Animation,** 3D Blender animations using (mostly) ROBLOX avatars, and Sub Rosa characters
 - **Worldbuilding / Character Design,** experience in discussing worldbuilding, designing and grounding characters into a world, and designing a surrounding space that fits them
 - **Digital Art,** experience with Digital and Traditional art as a commitment since 2015, from environment to character art, assets, textures, and in-game posters
+- **Roleplay Guide,** as a community addition to post-apocalyptic Roleplay game 'After The Flash', I spent some months writing a Roleplay Guide, complete with unique mechanics and vendors
 <!--
 **notmooncalf/notmooncalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
