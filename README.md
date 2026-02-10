@@ -1,4 +1,10 @@
-## Hi there 👋
+### boiga
+hi i'm june !! i make stuff :3
+
+### things i have willingly subjected myself to:
+<p dir"auto">
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" style="max-width: 100%">
+</p>
 
 <!--
 **notmooncalf/notmooncalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
